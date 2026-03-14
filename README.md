@@ -6,10 +6,13 @@ O projeto foi criado com o objetivo de praticar **JavaScript, manipulação do D
 
 ---
 
-# 🚀 Demonstração
+# 📸 Demonstração
 
 🔗 Acesse o projeto online<br>
 https://cassymari.github.io/conversor-de-moeda/
+
+
+![Preview do Projeto](./assets/convert.jpeg)
 
 ---
 
